@@ -4,7 +4,7 @@
 
 This repository provides a set of scripts for backing up, importing, exporting, and automating WordPress sites using SQLite, with support for syncing to Cloudflare R2 via rclone.
 
-**Outputs of scripts all written in Chinese but they should run well**
+**Outputs of scripts all written in Chinese but they should run well.**
 
 ## 1. Prerequisite
 - Linux environment (Ubuntu/Debian recommended)
@@ -20,7 +20,7 @@ This repository provides a set of scripts for backing up, importing, exporting, 
 ## 2. Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone <your_repo_url>
+   git clone https://github.com/EnderturtleOrz/wordpress-sqlite-tools.git
    cd wordpress-sqlite-tools
    ```
 2. Make scripts executable:

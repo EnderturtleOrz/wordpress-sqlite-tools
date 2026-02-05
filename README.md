@@ -18,7 +18,7 @@
 ## 2. 安装与运行方式
 1. 克隆本仓库：
    ```bash
-   git clone <your_repo_url>
+   git clone https://github.com/EnderturtleOrz/wordpress-sqlite-tools.git
    cd wordpress-sqlite-tools
    ```
 2. 赋予脚本可执行权限：
