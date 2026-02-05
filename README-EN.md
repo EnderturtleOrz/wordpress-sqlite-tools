@@ -1,6 +1,6 @@
 # WordPress SQLite Tools
 
-[简体中文](README-ZH.md) | English
+[简体中文](README.md) | English
 
 This repository provides a set of scripts for backing up, importing, exporting, and automating WordPress sites using SQLite, with support for syncing to Cloudflare R2 via rclone.
 
