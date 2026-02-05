@@ -1,6 +1,6 @@
 # WordPress SQLite Tools
 
-简体中文 | [English](README.md)
+简体中文 | [English](README-EN.md)
 
 本仓库提供了一套用于 WordPress 站点基于 SQLite 数据库的备份、导入、导出和自动化脚本，支持通过 rclone 同步至 Cloudflare R2。
 
