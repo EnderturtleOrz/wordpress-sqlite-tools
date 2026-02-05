@@ -27,12 +27,7 @@ This repository provides a set of scripts for backing up, importing, exporting, 
    ```bash
    chmod +x *.sh
    ```
-3. Configure the `.env` file, for example:
-   ```env
-   WP_ROOT=/var/www/html
-   LOCAL_BACKUP_DIR=/root/wp_backups
-   # Other custom variables
-   ```
+3. Configure the `.env` file, see [.env](.env) example.
 4. Run scripts:
    - Export: `./export.sh`
    - Import: `./import.sh <backup_file_path>`

@@ -25,12 +25,7 @@
    ```bash
    chmod +x *.sh
    ```
-3. 配置 `.env` 文件，设置如下变量（示例）：
-   ```env
-   WP_ROOT=/var/www/html
-   LOCAL_BACKUP_DIR=/root/wp_backups
-   # 其他自定义变量
-   ```
+3. 配置 `.env` 文件，你可以参考示例文件[.env](.env):
 4. 运行脚本示例：
    - 导出：`./export.sh`
    - 导入：`./import.sh <备份文件路径>`
